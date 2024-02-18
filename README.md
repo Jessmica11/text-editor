@@ -8,8 +8,6 @@
 
 ## Resources
 
-[GitHub Repo Link]()
-
 [Live Render URL]()
 
 ## Your Task
